@@ -18,7 +18,9 @@ public class Main {
     public static void resto(int num1, int num2) {
         System.out.println(num1 % num2);
     }
-
-
+    
+    public static void dividir(int num1, int num2) {
+        System.out.println(num1 / num2);
+    }
 
 }
