@@ -20,11 +20,10 @@ public class Main {
         if (num2 != 0) {
             System.out.println(num1/num2);
         } else {
-            System.out.println("No se puede dividir por cero")
+            System.out.println("No se puede dividir por cero");
         }
 
     }
-
 
 
 }
